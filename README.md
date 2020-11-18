@@ -10,7 +10,7 @@ if you want to see question filtered through their question type , then there wa
 **Solution**
 * this will add a dropdown of all enabled question type and you can filter the question by their type
 
-![qsearchbytype]()
+![qsearchbytype](https://raw.githubusercontent.com/developerck/developerck.github.io/master/repo/qsearchbytype/filter_during_adding_quiz.png)
 
 
 
