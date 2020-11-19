@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/developerck/moodle-local_qsearchbytype.svg?branch=master)](https://travis-ci.com/developerck/moodle-local_qsearchbytype)
+[![Build Status](https://travis-ci.org/developerck/moodle-local_qsearchbytype.svg?branch=master)](https://travis-ci.org/developerck/moodle-local_qsearchbytype)
 
 
 # qsearchbytype #
